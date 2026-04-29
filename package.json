@@ -1,0 +1,11 @@
+{
+  "name": "qolda-landing",
+  "version": "0.2.0",
+  "description": "Qolda · public demo landing",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx --yes serve -l 5173 .",
+    "start": "npx --yes serve -l 5173 ."
+  },
+  "private": true
+}
